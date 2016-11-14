@@ -1,0 +1,4 @@
+Le but de ce script Shell est de voir comment utiliser les codes de sortie dans un script : pour arreter le script, retourner un code erreur en fonction de l'évènement survenu, pouvoir effectuer une action en fonction du résultat obtenu précédement et enfin comment sortir avec un code succés.
+
+Le script n'est pas de ma création, il est basé sur celui du site "https://bash.cyberciti.biz/guide/Exit_command".
+
